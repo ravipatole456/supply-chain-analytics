@@ -41,7 +41,7 @@ Rather than relying only on dashboards, the project also includes SQL Server dat
 
 ## 📐 Project Documentation
 
-The `docs/` folder contains supporting project documentation and architecture diagrams.
+The `Docs` folder contains supporting project documentation and architecture diagrams.
 
 The documentation section covers:
 
@@ -63,8 +63,8 @@ The Bronze layer is the initial landing layer for source data.
 - Separate source ingestion from downstream processing.
 
 **Scripts**
-- `Sql_Server/bronze/ddl_bronzeRE.sql`
-- `Sql_Server/bronze/proc_load_bronzeRE.sql`
+- ddl_bronzeRE.sql
+- proc_load_bronzeRE.sql
 
 ### 🥈 Silver Layer — Cleaned & Standardized Data
 
