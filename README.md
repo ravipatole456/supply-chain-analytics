@@ -262,7 +262,7 @@ I'm interested in Data Analyst and Business Analyst opportunities where I can us
 
 ## 🔗 Connect
 
-- GitHub: 
+- GitHub: https://github.com/ravipatole456
 - LinkedIn: www.linkedin.com/in/ravikiranpatole01
 
 ⭐ Thank you for exploring my project!
